@@ -265,7 +265,7 @@ The following features can extend the project into a more advanced learning reco
 
 **Team Members:** Add the names of your project team members here.
 
-**Institution:** Add your university name here.
+**Institution:** LOVELY PROFESSIONALUNIVERSITY.
 
 ## 👥 Team Contributions
 
@@ -298,7 +298,7 @@ This repository may incorporate or adapt code from existing open-source projects
 
 If this implementation is adapted from the original Course Recommendation System by Samuel Aboye, acknowledge the source:
 
-[Original Course Recommendation System](https://github.com/saboye/Course-Recommendation-System)
+[Original Course Recommendation System](https://github.com/PRAKRITISINGH88/E-Learning-Recommendation-System-Using-Machine-Learning)
 
 Review the original project's license and the dataset's separate terms before distributing the adapted implementation.
 
